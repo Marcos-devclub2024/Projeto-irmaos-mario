@@ -11,6 +11,8 @@
 <br>
 <br>
 <h1>"Resultado"</h1>
-<img src="https://github.com/Marcos-devclub2024/Projeto-irmaos-mario/blob/master/img/Macbook-PRO-16-2021-127.0.0.1.png?raw=true"/>
-<img src="https://github.com/Marcos-devclub2024/Projeto-irmaos-mario/blob/master/img/iPhone-14-PRO-MAX-127.0.0.1.png?raw=true"/>
 
+<p float="left">
+  <img src="https://github.com/Marcos-devclub2024/Projeto-irmaos-mario/blob/master/img/Macbook-PRO-16-2021-127.0.0.1.png?raw=true" width="200" />
+  <img src="https://github.com/Marcos-devclub2024/Projeto-irmaos-mario/blob/master/img/iPhone-14-PRO-MAX-127.0.0.1.png?raw=true" width="200" />
+</p>
