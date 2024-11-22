@@ -11,7 +11,6 @@
 <br>
 <br>
 <h1>"Resultado"</h1>
-https://github.com/user-attachments/assets/5397ce69-8d2d-48f6-8eca-2c1116d169f0
-https://github.com/user-attachments/assets/fa8cba05-5593-48cb-8c3c-78888ea77206
+<img src="https://github.com/Marcos-devclub2024/Projeto-irmaos-mario/blob/master/img/Macbook-PRO-16-2021-127.0.0.1.png?raw=true"/>
 
 
